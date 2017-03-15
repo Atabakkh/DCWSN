@@ -1,0 +1,2447 @@
+version 2
+run General-0-20131105-23:21:11-4448
+attr configname General
+attr datetime 20131105-23:21:11
+attr experiment General
+attr inifile omnetpp.ini
+attr iterationvars ""
+attr iterationvars2 $repetition=0
+attr measurement ""
+attr network ""
+attr processid 4448
+attr repetition 0
+attr replication #0
+attr resultdir results
+attr runnumber 0
+attr seedset 0
+
+scalar SimulationNetwork.newNode 	#sent 	0
+scalar SimulationNetwork.newNode 	#received 	0
+statistic SimulationNetwork.newNode 	"hop count"
+field count 1
+field mean 18563011
+field stddev -1.#IND
+field sum 18563011
+field sqrsum 3.4458537738612e+014
+field min 18563011
+field max 18563011
+attr type  int
+bin	-INF	0
+bin	18563010	0
+bin	18563011	1
+bin	18563012	0
+scalar SimulationNetwork.BS 	#sent 	0
+scalar SimulationNetwork.BS 	#received 	0
+statistic SimulationNetwork.BS 	"hop count"
+field count 1
+field mean 18563385
+field stddev -1.#IND
+field sum 18563385
+field sqrsum 3.4459926265823e+014
+field min 18563385
+field max 18563385
+attr type  int
+bin	-INF	0
+bin	18563384	0
+bin	18563385	1
+bin	18563386	0
+scalar SimulationNetwork.newNode 	#sent 	0
+scalar SimulationNetwork.newNode 	#received 	0
+statistic SimulationNetwork.newNode 	"hop count"
+field count 2
+field mean 18563369.5
+field stddev 506.99556211075
+field sum 37126739
+field sqrsum 6.8919737464411e+014
+field min 18563011
+field max 18563728
+attr type  int
+bin	-INF	0
+bin	18563010	0
+bin	18563011	1
+bin	18563012	1
+scalar SimulationNetwork.BS 	#sent 	0
+scalar SimulationNetwork.BS 	#received 	0
+statistic SimulationNetwork.BS 	"hop count"
+field count 2
+field mean 18563939
+field stddev 783.47431355469
+field sum 37127878
+field sqrsum 6.8923966300527e+014
+field min 18563385
+field max 18564493
+attr type  int
+bin	-INF	0
+bin	18563384	0
+bin	18563385	1
+bin	18563386	1
+scalar SimulationNetwork.newNode 	#sent 	0
+scalar SimulationNetwork.newNode 	#received 	0
+statistic SimulationNetwork.newNode 	"hop count"
+field count 3
+field mean 18563744
+field stddev 741.12954333234
+field sum 55691232
+field sqrsum 1.0338377749912e+015
+field min 18563011
+field max 18564493
+attr type  int
+bin	-INF	0
+bin	18563010	0
+bin	18563011	1
+bin	18563012	2
+scalar SimulationNetwork.BS 	#sent 	0
+scalar SimulationNetwork.BS 	#received 	0
+statistic SimulationNetwork.BS 	"hop count"
+field count 3
+field mean 18564123.666667
+field stddev 639.70409827006
+field sum 55692371
+field sqrsum 1.0338800633523e+015
+field min 18563385
+field max 18564493
+attr type  int
+bin	-INF	0
+bin	18563384	0
+bin	18563385	1
+bin	18563386	2
+scalar SimulationNetwork.newNode2 	#sent 	0
+scalar SimulationNetwork.newNode2 	#received 	1
+statistic SimulationNetwork.newNode2 	"hop count"
+field count 1
+field mean 18564852
+field stddev -1.#IND
+field sum 18564852
+field sqrsum 3.446537297819e+014
+field min 18564852
+field max 18564852
+attr type  int
+bin	-INF	0
+bin	18564851	0
+bin	18564852	1
+bin	18564853	0
+scalar SimulationNetwork.newNode2 	#sent 	0
+scalar SimulationNetwork.newNode2 	#received 	1
+statistic SimulationNetwork.newNode2 	"hop count"
+field count 2
+field mean 18564852
+field stddev 0
+field sum 37129704
+field sqrsum 6.8930745956381e+014
+field min 18564852
+field max 18564852
+attr type  int
+bin	-INF	0
+bin	18564851	0
+bin	18564852	2
+bin	18564853	0
+scalar SimulationNetwork.BS 	#sent 	0
+scalar SimulationNetwork.BS 	#received 	0
+statistic SimulationNetwork.BS 	"hop count"
+field count 4
+field mean 18564305.75
+field stddev 636.73509667155
+field sum 74257223
+field sqrsum 1.3785337931342e+015
+field min 18563385
+field max 18564852
+attr type  int
+bin	-INF	0
+bin	18563384	0
+bin	18563385	1
+bin	18563386	3
+scalar SimulationNetwork.newNode2 	#sent 	0
+scalar SimulationNetwork.newNode2 	#received 	1
+statistic SimulationNetwork.newNode2 	"hop count"
+field count 3
+field mean 18564852
+field stddev 0
+field sum 55694556
+field sqrsum 1.0339611893457e+015
+field min 18564852
+field max 18564852
+attr type  int
+bin	-INF	0
+bin	18564851	0
+bin	18564852	3
+bin	18564853	0
+scalar SimulationNetwork.BS 	#sent 	0
+scalar SimulationNetwork.BS 	#received 	0
+statistic SimulationNetwork.BS 	"hop count"
+field count 5
+field mean 18564415
+field stddev 603.11814762947
+field sum 92822075
+field sqrsum 1.7231875229161e+015
+field min 18563385
+field max 18564852
+attr type  int
+bin	-INF	0
+bin	18563384	0
+bin	18563385	1
+bin	18563386	4
+scalar SimulationNetwork.newNode3 	#sent 	0
+scalar SimulationNetwork.newNode3 	#received 	1
+statistic SimulationNetwork.newNode3 	"hop count"
+field count 1
+field mean 18564852
+field stddev -1.#IND
+field sum 18564852
+field sqrsum 3.446537297819e+014
+field min 18564852
+field max 18564852
+attr type  int
+bin	-INF	0
+bin	18564851	0
+bin	18564852	1
+bin	18564853	0
+scalar SimulationNetwork.newNode3 	#sent 	0
+scalar SimulationNetwork.newNode3 	#received 	1
+statistic SimulationNetwork.newNode3 	"hop count"
+field count 2
+field mean 18564852
+field stddev 0
+field sum 37129704
+field sqrsum 6.8930745956381e+014
+field min 18564852
+field max 18564852
+attr type  int
+bin	-INF	0
+bin	18564851	0
+bin	18564852	2
+bin	18564853	0
+scalar SimulationNetwork.BS 	#sent 	0
+scalar SimulationNetwork.BS 	#received 	0
+statistic SimulationNetwork.BS 	"hop count"
+field count 6
+field mean 18564487.833333
+field stddev 568.18075176374
+field sum 111386927
+field sqrsum 2.067841252698e+015
+field min 18563385
+field max 18564852
+attr type  int
+bin	-INF	0
+bin	18563384	0
+bin	18563385	1
+bin	18563386	5
+scalar SimulationNetwork.newNode3 	#sent 	0
+scalar SimulationNetwork.newNode3 	#received 	1
+statistic SimulationNetwork.newNode3 	"hop count"
+field count 3
+field mean 18564852
+field stddev 0
+field sum 55694556
+field sqrsum 1.0339611893457e+015
+field min 18564852
+field max 18564852
+attr type  int
+bin	-INF	0
+bin	18564851	0
+bin	18564852	3
+bin	18564853	0
+scalar SimulationNetwork.BS 	#sent 	0
+scalar SimulationNetwork.BS 	#received 	0
+statistic SimulationNetwork.BS 	"hop count"
+field count 7
+field mean 18564539.857143
+field stddev 536.62818555274
+field sum 129951779
+field sqrsum 2.4124949824799e+015
+field min 18563385
+field max 18564852
+attr type  int
+bin	-INF	0
+bin	18563384	0
+bin	18563385	1
+bin	18563386	6
+scalar SimulationNetwork.GateWay1 	#sent 	0
+scalar SimulationNetwork.GateWay1 	#received 	1
+statistic SimulationNetwork.GateWay1 	"hop count"
+field count 4
+field mean 18564852
+field stddev 0
+field sum 74259408
+field sqrsum 1.3786149191276e+015
+field min 18564852
+field max 18564852
+attr type  int
+bin	-INF	0
+bin	18564851	0
+bin	18564852	4
+bin	18564853	0
+scalar SimulationNetwork.newNode4 	#sent 	9737881
+scalar SimulationNetwork.newNode4 	#received 	6185573
+statistic SimulationNetwork.newNode4 	"hop count"
+field count 1
+field mean 18564852
+field stddev -1.#IND
+field sum 18564852
+field sqrsum 3.446537297819e+014
+field min 18564852
+field max 18564852
+attr type  int
+bin	-INF	0
+bin	18564851	0
+bin	18564852	1
+bin	18564853	0
+scalar SimulationNetwork.BS 	#sent 	0
+scalar SimulationNetwork.BS 	#received 	0
+statistic SimulationNetwork.BS 	"hop count"
+field count 8
+field mean 18564578.875
+field stddev 508.93065413108
+field sum 148516631
+field sqrsum 2.7571487122618e+015
+field min 18563385
+field max 18564852
+attr type  int
+bin	-INF	0
+bin	18563384	0
+bin	18563385	1
+bin	18563386	7
+scalar SimulationNetwork.BS 	#sent 	0
+scalar SimulationNetwork.BS 	#received 	0
+statistic SimulationNetwork.BS 	"hop count"
+field count 9
+field mean 18564609.222222
+field stddev 484.68824460472
+field sum 167081483
+field sqrsum 3.1018024420437e+015
+field min 18563385
+field max 18564852
+attr type  int
+bin	-INF	0
+bin	18563384	0
+bin	18563385	1
+bin	18563386	8
+scalar SimulationNetwork.newNode4 	#sent 	9737881
+scalar SimulationNetwork.newNode4 	#received 	6185573
+statistic SimulationNetwork.newNode4 	"hop count"
+field count 2
+field mean 18565756.5
+field stddev 1279.1561671665
+field sum 37131513
+field sqrsum 6.8937463047083e+014
+field min 18564852
+field max 18566661
+attr type  int
+bin	-INF	0
+bin	18564851	0
+bin	18564852	1
+bin	18564853	1
+scalar SimulationNetwork.newNode4 	#sent 	9737881
+scalar SimulationNetwork.newNode4 	#received 	6185573
+statistic SimulationNetwork.newNode4 	"hop count"
+field count 3
+field mean 18566058
+field stddev 1044.426636964
+field sum 55698174
+field sqrsum 1.0340955311597e+015
+field min 18564852
+field max 18566661
+attr type  int
+bin	-INF	0
+bin	18564851	0
+bin	18564852	1
+bin	18564853	2
+scalar SimulationNetwork.GateWay1 	#sent 	0
+scalar SimulationNetwork.GateWay1 	#received 	1
+statistic SimulationNetwork.GateWay1 	"hop count"
+field count 5
+field mean 18565213.8
+field stddev 809.00939426697
+field sum 92826069
+field sqrsum 1.7233358198165e+015
+field min 18564852
+field max 18566661
+attr type  int
+bin	-INF	0
+bin	18564851	0
+bin	18564852	4
+bin	18564853	1
+scalar SimulationNetwork.MainClusterHead 	#sent 	112
+scalar SimulationNetwork.MainClusterHead 	#received 	1
+statistic SimulationNetwork.MainClusterHead 	"hop count"
+field count 1
+field mean 18566661
+field stddev -1.#IND
+field sum 18566661
+field sqrsum 3.4472090068892e+014
+field min 18566661
+field max 18566661
+attr type  int
+bin	-INF	0
+bin	18566660	0
+bin	18566661	1
+bin	18566662	0
+scalar SimulationNetwork.BS 	#sent 	0
+scalar SimulationNetwork.BS 	#received 	0
+statistic SimulationNetwork.BS 	"hop count"
+field count 10
+field mean 18564867.5
+field stddev 935.89223619911
+field sum 185648675
+field sqrsum 3.4465430608086e+015
+field min 18563385
+field max 18567192
+attr type  int
+bin	-INF	0
+bin	18563384	0
+bin	18563385	1
+bin	18563386	9
+scalar SimulationNetwork.BS 	#sent 	0
+scalar SimulationNetwork.BS 	#received 	0
+statistic SimulationNetwork.BS 	"hop count"
+field count 11
+field mean 18565078.818182
+field stddev 1131.1560297534
+field sum 204215867
+field sqrsum 3.7912836795735e+015
+field min 18563385
+field max 18567192
+attr type  int
+bin	-INF	0
+bin	18563384	0
+bin	18563385	1
+bin	18563386	10
+scalar SimulationNetwork.GateWay1 	#sent 	0
+scalar SimulationNetwork.GateWay1 	#received 	1
+statistic SimulationNetwork.GateWay1 	"hop count"
+field count 6
+field mean 18565543.5
+field stddev 1084.3474996513
+field sum 111393261
+field sqrsum 2.0680764385814e+015
+field min 18564852
+field max 18567192
+attr type  int
+bin	-INF	0
+bin	18564851	0
+bin	18564852	4
+bin	18564853	2
+scalar SimulationNetwork.GateWay1 	#sent 	0
+scalar SimulationNetwork.GateWay1 	#received 	1
+statistic SimulationNetwork.GateWay1 	"hop count"
+field count 7
+field mean 18565854.714286
+field stddev 1287.5642008891
+field sum 129960983
+field sqrsum 2.4128367388507e+015
+field min 18564852
+field max 18567722
+attr type  int
+bin	-INF	0
+bin	18564851	0
+bin	18564852	4
+bin	18564853	3
+scalar SimulationNetwork.newNode5 	#sent 	1250067
+scalar SimulationNetwork.newNode5 	#received 	6316128
+statistic SimulationNetwork.newNode5 	"hop count"
+field count 1
+field mean 18567722
+field stddev -1.#IND
+field sum 18567722
+field sqrsum 3.4476030026928e+014
+field min 18567722
+field max 18567722
+attr type  int
+bin	-INF	0
+bin	18567721	0
+bin	18567722	1
+bin	18567723	0
+scalar SimulationNetwork.Member3 	#sent 	1250067
+scalar SimulationNetwork.Member3 	#received 	6316128
+statistic SimulationNetwork.Member3 	"hop count"
+field count 2
+field mean 18567995
+field stddev 386.08030252785
+field sum 37135990
+field sqrsum 6.8954087678911e+014
+field min 18567722
+field max 18568268
+attr type  int
+bin	-INF	0
+bin	18567721	0
+bin	18567722	1
+bin	18567723	1
+scalar SimulationNetwork.GateWay1 	#sent 	0
+scalar SimulationNetwork.GateWay1 	#received 	1
+statistic SimulationNetwork.GateWay1 	"hop count"
+field count 8
+field mean 18566156.375
+field stddev 1465.9411348053
+field sum 148529251
+field sqrsum 2.7576173153705e+015
+field min 18564852
+field max 18568268
+attr type  int
+bin	-INF	0
+bin	18564851	0
+bin	18564852	4
+bin	18564853	4
+scalar SimulationNetwork.MainClusterHead 	#sent 	112
+scalar SimulationNetwork.MainClusterHead 	#received 	1
+statistic SimulationNetwork.MainClusterHead 	"hop count"
+field count 2
+field mean 18567464.5
+field stddev 1136.3205973668
+field sum 37134929
+field sqrsum 6.8950147720875e+014
+field min 18566661
+field max 18568268
+attr type  int
+bin	-INF	0
+bin	18566660	0
+bin	18566661	1
+bin	18566662	1
+scalar SimulationNetwork.BS 	#sent 	0
+scalar SimulationNetwork.BS 	#received 	0
+statistic SimulationNetwork.BS 	"hop count"
+field count 12
+field mean 18565344.583333
+field stddev 1418.015480001
+field sum 222784135
+field sqrsum 4.1360642560933e+015
+field min 18563385
+field max 18568268
+attr type  int
+bin	-INF	0
+bin	18563384	0
+bin	18563385	1
+bin	18563386	11
+scalar SimulationNetwork.BS 	#sent 	0
+scalar SimulationNetwork.BS 	#received 	0
+statistic SimulationNetwork.BS 	"hop count"
+field count 13
+field mean 18565569.461538
+field stddev 1581.3338049126
+field sum 241352403
+field sqrsum 4.4808448326131e+015
+field min 18563385
+field max 18568268
+attr type  int
+bin	-INF	0
+bin	18563384	0
+bin	18563385	1
+bin	18563386	12
+scalar SimulationNetwork.GateWay2 	#sent 	9737881
+scalar SimulationNetwork.GateWay2 	#received 	6185573
+statistic SimulationNetwork.GateWay2 	"hop count"
+field count 4
+field mean 18566739.25
+field stddev 1607.3656242436
+field sum 74266957
+field sqrsum 1.3788952332608e+015
+field min 18564852
+field max 18568783
+attr type  int
+bin	-INF	0
+bin	18564851	0
+bin	18564852	1
+bin	18564853	3
+scalar SimulationNetwork.GateWay2 	#sent 	9737881
+scalar SimulationNetwork.GateWay2 	#received 	6185573
+statistic SimulationNetwork.GateWay2 	"hop count"
+field count 5
+field mean 18567148
+field stddev 1665.2630422849
+field sum 92835740
+field sqrsum 1.7236949353619e+015
+field min 18564852
+field max 18568783
+attr type  int
+bin	-INF	0
+bin	18564851	0
+bin	18564852	1
+bin	18564853	4
+scalar SimulationNetwork.GateWay2 	#sent 	9737881
+scalar SimulationNetwork.GateWay2 	#received 	6185573
+statistic SimulationNetwork.GateWay2 	"hop count"
+field count 6
+field mean 18567420.5
+field stddev 1632.1820670501
+field sum 111404523
+field sqrsum 2.068494637463e+015
+field min 18564852
+field max 18568783
+attr type  int
+bin	-INF	0
+bin	18564851	0
+bin	18564852	1
+bin	18564853	5
+scalar SimulationNetwork.BS 	#sent 	0
+scalar SimulationNetwork.BS 	#received 	0
+statistic SimulationNetwork.BS 	"hop count"
+field count 14
+field mean 18565799
+field stddev 1745.2484504638
+field sum 259921186
+field sqrsum 4.8256445347142e+015
+field min 18563385
+field max 18568783
+attr type  int
+bin	-INF	0
+bin	18563384	0
+bin	18563385	1
+bin	18563386	13
+scalar SimulationNetwork.BS 	#sent 	0
+scalar SimulationNetwork.BS 	#received 	0
+statistic SimulationNetwork.BS 	"hop count"
+field count 15
+field mean 18566033.266667
+field stddev 1910.9007026064
+field sum 278490499
+field sqrsum 5.1704639200062e+015
+field min 18563385
+field max 18569313
+attr type  int
+bin	-INF	0
+bin	18563384	0
+bin	18563385	1
+bin	18563386	14
+scalar SimulationNetwork.GateWay2 	#sent 	9737881
+scalar SimulationNetwork.GateWay2 	#received 	6185573
+statistic SimulationNetwork.GateWay2 	"hop count"
+field count 7
+field mean 18567690.857143
+field stddev 1652.7752850472
+field sum 129973836
+field sqrsum 2.413314022755e+015
+field min 18564852
+field max 18569313
+attr type  int
+bin	-INF	0
+bin	18564851	0
+bin	18564852	1
+bin	18564853	6
+scalar SimulationNetwork.GateWay2 	#sent 	9737881
+scalar SimulationNetwork.GateWay2 	#received 	6185573
+statistic SimulationNetwork.GateWay2 	"hop count"
+field count 8
+field mean 18567893.625
+field stddev 1634.1195040668
+field sum 148543149
+field sqrsum 2.758133408047e+015
+field min 18564852
+field max 18569313
+attr type  int
+bin	-INF	0
+bin	18564851	0
+bin	18564852	1
+bin	18564853	7
+scalar SimulationNetwork.GateWay2 	#sent 	9737881
+scalar SimulationNetwork.GateWay2 	#received 	6185573
+statistic SimulationNetwork.GateWay2 	"hop count"
+field count 9
+field mean 18568051.333333
+field stddev 1600.1251513554
+field sum 167112462
+field sqrsum 3.1029527933389e+015
+field min 18564852
+field max 18569313
+attr type  int
+bin	-INF	0
+bin	18564851	0
+bin	18564852	1
+bin	18564853	8
+scalar SimulationNetwork.GateWay2 	#sent 	9737881
+scalar SimulationNetwork.GateWay2 	#received 	6185573
+statistic SimulationNetwork.GateWay2 	"hop count"
+field count 10
+field mean 18568230.6
+field stddev 1611.6069413236
+field sum 185682306
+field sqrsum 3.4477918995233e+015
+field min 18564852
+field max 18569844
+attr type  int
+bin	-INF	0
+bin	18564851	0
+bin	18564852	1
+bin	18564853	9
+scalar SimulationNetwork.MainClusterHead 	#sent 	112
+scalar SimulationNetwork.MainClusterHead 	#received 	1
+statistic SimulationNetwork.MainClusterHead 	"hop count"
+field count 3
+field mean 18568257.666667
+field stddev 1591.5251595069
+field sum 55704773
+field sqrsum 1.0343405833931e+015
+field min 18566661
+field max 18569844
+attr type  int
+bin	-INF	0
+bin	18566660	0
+bin	18566661	1
+bin	18566662	2
+scalar SimulationNetwork.MainClusterHead 	#sent 	112
+scalar SimulationNetwork.MainClusterHead 	#received 	1
+statistic SimulationNetwork.MainClusterHead 	"hop count"
+field count 4
+field mean 18568654.25
+field stddev 1522.4152685782
+field sum 74274617
+field sqrsum 1.3791796895774e+015
+field min 18566661
+field max 18569844
+attr type  int
+bin	-INF	0
+bin	18566660	0
+bin	18566661	1
+bin	18566662	3
+scalar SimulationNetwork.BS 	#sent 	0
+scalar SimulationNetwork.BS 	#received 	0
+statistic SimulationNetwork.BS 	"hop count"
+field count 16
+field mean 18566271.4375
+field stddev 2077.4289227713
+field sum 297060343
+field sqrsum 5.5153030261905e+015
+field min 18563385
+field max 18569844
+attr type  int
+bin	-INF	0
+bin	18563384	0
+bin	18563385	1
+bin	18563386	15
+scalar SimulationNetwork.BS 	#sent 	0
+scalar SimulationNetwork.BS 	#received 	0
+statistic SimulationNetwork.BS 	"hop count"
+field count 17
+field mean 18566507.294118
+field stddev 2234.2025077376
+field sum 315630624
+field sqrsum 5.8601583626095e+015
+field min 18563385
+field max 18570281
+attr type  int
+bin	-INF	0
+bin	18563384	0
+bin	18563385	1
+bin	18563386	16
+scalar SimulationNetwork.Member1 	#sent 	0
+scalar SimulationNetwork.Member1 	#received 	0
+statistic SimulationNetwork.Member1 	"hop count"
+field count 4
+field mean 18565417.25
+field stddev 3400.771125789
+field sum 74261669
+field sqrsum 1.3786989053621e+015
+field min 18563011
+field max 18570437
+attr type  int
+bin	-INF	0
+bin	18563010	0
+bin	18563011	1
+bin	18563012	3
+scalar SimulationNetwork.Member1 	#sent 	0
+scalar SimulationNetwork.Member1 	#received 	0
+statistic SimulationNetwork.Member1 	"hop count"
+field count 5
+field mean 18566436.8
+field stddev 3724.4253516499
+field sum 92832184
+field sqrsum 1.7235629327273e+015
+field min 18563011
+field max 18570515
+attr type  int
+bin	-INF	0
+bin	18563010	0
+bin	18563011	1
+bin	18563012	4
+scalar SimulationNetwork.Member1 	#sent 	0
+scalar SimulationNetwork.Member1 	#received 	0
+statistic SimulationNetwork.Member1 	"hop count"
+field count 6
+field mean 18567132
+field stddev 3741.2422535837
+field sum 111402792
+field sqrsum 2.068430414217e+015
+field min 18563011
+field max 18570608
+attr type  int
+bin	-INF	0
+bin	18563010	0
+bin	18563011	1
+bin	18563012	5
+scalar SimulationNetwork.BS 	#sent 	0
+scalar SimulationNetwork.BS 	#received 	0
+statistic SimulationNetwork.BS 	"hop count"
+field count 18
+field mean 18566735.111111
+field stddev 2373.2349698724
+field sum 334201232
+field sqrsum 6.2050258440991e+015
+field min 18563385
+field max 18570608
+attr type  int
+bin	-INF	0
+bin	18563384	0
+bin	18563385	1
+bin	18563386	17
+scalar SimulationNetwork.BS 	#sent 	0
+scalar SimulationNetwork.BS 	#received 	0
+statistic SimulationNetwork.BS 	"hop count"
+field count 19
+field mean 18566954.578947
+field stddev 2496.8977266394
+field sum 352772137
+field sqrsum 6.5499043566182e+015
+field min 18563385
+field max 18570905
+attr type  int
+bin	-INF	0
+bin	18563384	0
+bin	18563385	1
+bin	18563386	18
+scalar SimulationNetwork.Member1 	#sent 	0
+scalar SimulationNetwork.Member1 	#received 	0
+statistic SimulationNetwork.Member1 	"hop count"
+field count 7
+field mean 18567695.428571
+field stddev 3726.4245981538
+field sum 129973868
+field sqrsum 2.4133152780148e+015
+field min 18563011
+field max 18571076
+attr type  int
+bin	-INF	0
+bin	18563010	0
+bin	18563011	1
+bin	18563012	6
+scalar SimulationNetwork.Member1 	#sent 	0
+scalar SimulationNetwork.Member1 	#received 	0
+statistic SimulationNetwork.Member1 	"hop count"
+field count 8
+field mean 18568131.625
+field stddev 3663.9637372465
+field sum 148545053
+field sqrsum 2.758204190319e+015
+field min 18563011
+field max 18571185
+attr type  int
+bin	-INF	0
+bin	18563010	0
+bin	18563011	1
+bin	18563012	7
+scalar SimulationNetwork.Member1 	#sent 	0
+scalar SimulationNetwork.Member1 	#received 	0
+statistic SimulationNetwork.Member1 	"hop count"
+field count 9
+field mean 18568472.666667
+field stddev 3576.7773553857
+field sum 167116254
+field sqrsum 3.1030936969014e+015
+field min 18563011
+field max 18571201
+attr type  int
+bin	-INF	0
+bin	18563010	0
+bin	18563011	1
+bin	18563012	8
+scalar SimulationNetwork.GateWay6 	#sent 	0
+scalar SimulationNetwork.GateWay6 	#received 	0
+statistic SimulationNetwork.GateWay6 	"hop count"
+field count 10
+field mean 18568775.1
+field stddev 3505.212355271
+field sum 185687751
+field sqrsum 3.4479941977224e+015
+field min 18563011
+field max 18571497
+attr type  int
+bin	-INF	0
+bin	18563010	0
+bin	18563011	1
+bin	18563012	9
+scalar SimulationNetwork.MainClusterHead 	#sent 	112
+scalar SimulationNetwork.MainClusterHead 	#received 	1
+statistic SimulationNetwork.MainClusterHead 	"hop count"
+field count 5
+field mean 18569222.8
+field stddev 1831.544894348
+field sum 92846114
+field sqrsum 1.7240801903984e+015
+field min 18566661
+field max 18571497
+attr type  int
+bin	-INF	0
+bin	18566660	0
+bin	18566661	1
+bin	18566662	4
+scalar SimulationNetwork.BS 	#sent 	0
+scalar SimulationNetwork.BS 	#received 	0
+statistic SimulationNetwork.BS 	"hop count"
+field count 20
+field mean 18567185.6
+field stddev 2640.7917951351
+field sum 371343712
+field sqrsum 6.8948077545988e+015
+field min 18563385
+field max 18571575
+attr type  int
+bin	-INF	0
+bin	18563384	0
+bin	18563385	1
+bin	18563386	19
+scalar SimulationNetwork.GateWay1 	#sent 	0
+scalar SimulationNetwork.GateWay1 	#received 	1
+statistic SimulationNetwork.GateWay1 	"hop count"
+field count 9
+field mean 18566760.222222
+field stddev 2272.0131369466
+field sum 167100842
+field sqrsum 3.1025213076418e+015
+field min 18564852
+field max 18571591
+attr type  int
+bin	-INF	0
+bin	18564851	0
+bin	18564852	4
+bin	18564853	5
+scalar SimulationNetwork.GateWay1 	#sent 	0
+scalar SimulationNetwork.GateWay1 	#received 	1
+statistic SimulationNetwork.GateWay1 	"hop count"
+field count 10
+field mean 18567243.3
+field stddev 2630.9930972522
+field sum 185672433
+field sqrsum 3.4474252999131e+015
+field min 18564852
+field max 18571591
+attr type  int
+bin	-INF	0
+bin	18564851	0
+bin	18564852	4
+bin	18564853	6
+scalar SimulationNetwork.BS 	#sent 	0
+scalar SimulationNetwork.BS 	#received 	0
+statistic SimulationNetwork.BS 	"hop count"
+field count 21
+field mean 18567419.904762
+field stddev 2788.9003909209
+field sum 389915818
+field sqrsum 7.239730875874e+015
+field min 18563385
+field max 18572106
+attr type  int
+bin	-INF	0
+bin	18563384	0
+bin	18563385	1
+bin	18563386	20
+scalar SimulationNetwork.GateWay1 	#sent 	0
+scalar SimulationNetwork.GateWay1 	#received 	1
+statistic SimulationNetwork.GateWay1 	"hop count"
+field count 11
+field mean 18567699.545455
+field stddev 2918.8475932685
+field sum 204244695
+field sqrsum 3.7923542157097e+015
+field min 18564852
+field max 18572262
+attr type  int
+bin	-INF	0
+bin	18564851	0
+bin	18564852	4
+bin	18564853	7
+scalar SimulationNetwork.GateWay1 	#sent 	0
+scalar SimulationNetwork.GateWay1 	#received 	1
+statistic SimulationNetwork.GateWay1 	"hop count"
+field count 12
+field mean 18568099.25
+field stddev 3108.4273172078
+field sum 222817191
+field sqrsum 4.1372918233797e+015
+field min 18564852
+field max 18572496
+attr type  int
+bin	-INF	0
+bin	18564851	0
+bin	18564852	4
+bin	18564853	8
+scalar SimulationNetwork.MainClusterHead 	#sent 	112
+scalar SimulationNetwork.MainClusterHead 	#received 	1
+statistic SimulationNetwork.MainClusterHead 	"hop count"
+field count 6
+field mean 18569768.333333
+field stddev 2114.0683684959
+field sum 111418610
+field sqrsum 2.0690177980684e+015
+field min 18566661
+field max 18572496
+attr type  int
+bin	-INF	0
+bin	18566660	0
+bin	18566661	1
+bin	18566662	5
+scalar SimulationNetwork.MainClusterHead 	#sent 	112
+scalar SimulationNetwork.MainClusterHead 	#received 	1
+statistic SimulationNetwork.MainClusterHead 	"hop count"
+field count 7
+field mean 18570158
+field stddev 2187.9865173259
+field sum 129991106
+field sqrsum 2.4139554057385e+015
+field min 18566661
+field max 18572496
+attr type  int
+bin	-INF	0
+bin	18566660	0
+bin	18566661	1
+bin	18566662	6
+scalar SimulationNetwork.BS 	#sent 	0
+scalar SimulationNetwork.BS 	#received 	0
+statistic SimulationNetwork.BS 	"hop count"
+field count 22
+field mean 18567650.636364
+field stddev 2928.9591446436
+field sum 408488314
+field sqrsum 7.584668483544e+015
+field min 18563385
+field max 18572496
+attr type  int
+bin	-INF	0
+bin	18563384	0
+bin	18563385	1
+bin	18563386	21
+scalar SimulationNetwork.BS 	#sent 	0
+scalar SimulationNetwork.BS 	#received 	0
+statistic SimulationNetwork.BS 	"hop count"
+field count 23
+field mean 18567884.347826
+field stddev 3073.2946876519
+field sum 427061340
+field sqrsum 7.9296257783407e+015
+field min 18563385
+field max 18573026
+attr type  int
+bin	-INF	0
+bin	18563384	0
+bin	18563385	1
+bin	18563386	22
+scalar SimulationNetwork.GateWay2 	#sent 	9737881
+scalar SimulationNetwork.GateWay2 	#received 	6185573
+statistic SimulationNetwork.GateWay2 	"hop count"
+field count 11
+field mean 18568666.545455
+field stddev 2104.3008512875
+field sum 204255332
+field sqrsum 3.7927491943199e+015
+field min 18564852
+field max 18573026
+attr type  int
+bin	-INF	0
+bin	18564851	0
+bin	18564852	1
+bin	18564853	10
+scalar SimulationNetwork.GateWay2 	#sent 	9737881
+scalar SimulationNetwork.GateWay2 	#received 	6185573
+statistic SimulationNetwork.GateWay2 	"hop count"
+field count 12
+field mean 18569029.833333
+field stddev 2368.3889358639
+field sum 222828358
+field sqrsum 4.1377064891166e+015
+field min 18564852
+field max 18573026
+attr type  int
+bin	-INF	0
+bin	18564851	0
+bin	18564852	1
+bin	18564853	11
+scalar SimulationNetwork.newNode8 	#sent 	12172221
+scalar SimulationNetwork.newNode8 	#received 	10067360
+statistic SimulationNetwork.newNode8 	"hop count"
+field count 1
+field mean 18573479
+field stddev -1.#IND
+field sum 18573479
+field sqrsum 3.4497412216344e+014
+field min 18573479
+field max 18573479
+attr type  int
+bin	-INF	0
+bin	18573478	0
+bin	18573479	1
+bin	18573480	0
+scalar SimulationNetwork.newNode8 	#sent 	12172221
+scalar SimulationNetwork.newNode8 	#received 	10067360
+statistic SimulationNetwork.newNode8 	"hop count"
+field count 2
+field mean 18573479
+field stddev 0
+field sum 37146958
+field sqrsum 6.8994824432688e+014
+field min 18573479
+field max 18573479
+attr type  int
+bin	-INF	0
+bin	18573478	0
+bin	18573479	2
+bin	18573480	0
+scalar SimulationNetwork.MainClusterHead 	#sent 	112
+scalar SimulationNetwork.MainClusterHead 	#received 	1
+statistic SimulationNetwork.MainClusterHead 	"hop count"
+field count 8
+field mean 18570573.125
+field stddev 2341.3708095595
+field sum 148564585
+field sqrsum 2.7589295279019e+015
+field min 18566661
+field max 18573479
+attr type  int
+bin	-INF	0
+bin	18566660	0
+bin	18566661	1
+bin	18566662	7
+scalar SimulationNetwork.MainClusterHead 	#sent 	112
+scalar SimulationNetwork.MainClusterHead 	#received 	1
+statistic SimulationNetwork.MainClusterHead 	"hop count"
+field count 9
+field mean 18570896
+field stddev 2394.7858985721
+field sum 167138064
+field sqrsum 3.1039036500653e+015
+field min 18566661
+field max 18573479
+attr type  int
+bin	-INF	0
+bin	18566660	0
+bin	18566661	1
+bin	18566662	8
+scalar SimulationNetwork.BS 	#sent 	0
+scalar SimulationNetwork.BS 	#received 	0
+statistic SimulationNetwork.BS 	"hop count"
+field count 24
+field mean 18568117.458333
+field stddev 3215.3777650703
+field sum 445634819
+field sqrsum 8.2745999005042e+015
+field min 18563385
+field max 18573479
+attr type  int
+bin	-INF	0
+bin	18563384	0
+bin	18563385	1
+bin	18563386	23
+scalar SimulationNetwork.BS 	#sent 	0
+scalar SimulationNetwork.BS 	#received 	0
+statistic SimulationNetwork.BS 	"hop count"
+field count 25
+field mean 18568331.92
+field stddev 3325.3153349209
+field sum 464208298
+field sqrsum 8.6195740226676e+015
+field min 18563385
+field max 18573479
+attr type  int
+bin	-INF	0
+bin	18563384	0
+bin	18563385	1
+bin	18563386	24
+scalar SimulationNetwork.GateWay2 	#sent 	9737881
+scalar SimulationNetwork.GateWay2 	#received 	6185573
+statistic SimulationNetwork.GateWay2 	"hop count"
+field count 13
+field mean 18569372.076923
+field stddev 2581.5743407705
+field sum 241401837
+field sqrsum 4.48268061128e+015
+field min 18564852
+field max 18573479
+attr type  int
+bin	-INF	0
+bin	18564851	0
+bin	18564852	1
+bin	18564853	12
+scalar SimulationNetwork.GateWay2 	#sent 	9737881
+scalar SimulationNetwork.GateWay2 	#received 	6185573
+statistic SimulationNetwork.GateWay2 	"hop count"
+field count 14
+field mean 18569665.428571
+field stddev 2712.3131970942
+field sum 259975316
+field sqrsum 4.8276547334435e+015
+field min 18564852
+field max 18573479
+attr type  int
+bin	-INF	0
+bin	18564851	0
+bin	18564852	1
+bin	18564853	13
+scalar SimulationNetwork.ClusterHead4 	#sent 	12172221
+scalar SimulationNetwork.ClusterHead4 	#received 	10067360
+statistic SimulationNetwork.ClusterHead4 	"hop count"
+field count 3
+field mean 18573479
+field stddev 0
+field sum 55720437
+field sqrsum 1.0349223664903e+015
+field min 18573479
+field max 18573479
+attr type  int
+bin	-INF	0
+bin	18573478	0
+bin	18573479	3
+bin	18573480	0
+scalar SimulationNetwork.MainClusterHead 	#sent 	112
+scalar SimulationNetwork.MainClusterHead 	#received 	1
+statistic SimulationNetwork.MainClusterHead 	"hop count"
+field count 10
+field mean 18571154.3
+field stddev 2401.0344090296
+field sum 185711543
+field sqrsum 3.4488777722288e+015
+field min 18566661
+field max 18573479
+attr type  int
+bin	-INF	0
+bin	18566660	0
+bin	18566661	1
+bin	18566662	9
+scalar SimulationNetwork.MainClusterHead 	#sent 	112
+scalar SimulationNetwork.MainClusterHead 	#received 	1
+statistic SimulationNetwork.MainClusterHead 	"hop count"
+field count 11
+field mean 18571365.636364
+field stddev 2383.2253889511
+field sum 204285022
+field sqrsum 3.7938518943922e+015
+field min 18566661
+field max 18573479
+attr type  int
+bin	-INF	0
+bin	18566660	0
+bin	18566661	1
+bin	18566662	10
+scalar SimulationNetwork.Node10 	#sent 	12172221
+scalar SimulationNetwork.Node10 	#received 	10067360
+statistic SimulationNetwork.Node10 	"hop count"
+field count 1
+field mean 18573479
+field stddev -1.#IND
+field sum 18573479
+field sqrsum 3.4497412216344e+014
+field min 18573479
+field max 18573479
+attr type  int
+bin	-INF	0
+bin	18573478	0
+bin	18573479	1
+bin	18573480	0
+scalar SimulationNetwork.MainClusterHead 	#sent 	112
+scalar SimulationNetwork.MainClusterHead 	#received 	1
+statistic SimulationNetwork.MainClusterHead 	"hop count"
+field count 12
+field mean 18571541.75
+field stddev 2352.7884085601
+field sum 222858501
+field sqrsum 4.1388260165557e+015
+field min 18566661
+field max 18573479
+attr type  int
+bin	-INF	0
+bin	18566660	0
+bin	18566661	1
+bin	18566662	11
+scalar SimulationNetwork.MainClusterHead 	#sent 	112
+scalar SimulationNetwork.MainClusterHead 	#received 	1
+statistic SimulationNetwork.MainClusterHead 	"hop count"
+field count 13
+field mean 18571690.769231
+field stddev 2315.8151248106
+field sum 241431980
+field sqrsum 4.4838001387191e+015
+field min 18566661
+field max 18573479
+attr type  int
+bin	-INF	0
+bin	18566660	0
+bin	18566661	1
+bin	18566662	12
+scalar SimulationNetwork.GateWay6 	#sent 	0
+scalar SimulationNetwork.GateWay6 	#received 	0
+statistic SimulationNetwork.GateWay6 	"hop count"
+field count 11
+field mean 18569202.727273
+field stddev 3615.1595010716
+field sum 204261230
+field sqrsum 3.7929683198859e+015
+field min 18563011
+field max 18573479
+attr type  int
+bin	-INF	0
+bin	18563010	0
+bin	18563011	1
+bin	18563012	10
+scalar SimulationNetwork.BS 	#sent 	0
+scalar SimulationNetwork.BS 	#received 	0
+statistic SimulationNetwork.BS 	"hop count"
+field count 26
+field mean 18568529.884615
+field stddev 3410.9167251858
+field sum 482781777
+field sqrsum 8.964548144831e+015
+field min 18563385
+field max 18573479
+attr type  int
+bin	-INF	0
+bin	18563384	0
+bin	18563385	1
+bin	18563386	25
+scalar SimulationNetwork.GateWay6 	#sent 	0
+scalar SimulationNetwork.GateWay6 	#received 	0
+statistic SimulationNetwork.GateWay6 	"hop count"
+field count 12
+field mean 18569559.083333
+field stddev 3661.30149384
+field sum 222834709
+field sqrsum 4.1379424420493e+015
+field min 18563011
+field max 18573479
+attr type  int
+bin	-INF	0
+bin	18563010	0
+bin	18563011	1
+bin	18563012	11
+scalar SimulationNetwork.Node11 	#sent 	112
+scalar SimulationNetwork.Node11 	#received 	4
+statistic SimulationNetwork.Node11 	"hop count"
+field count 1
+field mean 18573479
+field stddev -1.#IND
+field sum 18573479
+field sqrsum 3.4497412216344e+014
+field min 18573479
+field max 18573479
+attr type  int
+bin	-INF	0
+bin	18573478	0
+bin	18573479	1
+bin	18573480	0
+scalar SimulationNetwork.GateWay6 	#sent 	0
+scalar SimulationNetwork.GateWay6 	#received 	0
+statistic SimulationNetwork.GateWay6 	"hop count"
+field count 13
+field mean 18569860.615385
+field stddev 3670.1519164392
+field sum 241408188
+field sqrsum 4.4829165642127e+015
+field min 18563011
+field max 18573479
+attr type  int
+bin	-INF	0
+bin	18563010	0
+bin	18563011	1
+bin	18563012	12
+scalar SimulationNetwork.BS 	#sent 	0
+scalar SimulationNetwork.BS 	#received 	0
+statistic SimulationNetwork.BS 	"hop count"
+field count 27
+field mean 18568713.185185
+field stddev 3477.6505667466
+field sum 501355256
+field sqrsum 9.3095222669945e+015
+field min 18563385
+field max 18573479
+attr type  int
+bin	-INF	0
+bin	18563384	0
+bin	18563385	1
+bin	18563386	26
+scalar SimulationNetwork.GateWay6 	#sent 	0
+scalar SimulationNetwork.GateWay6 	#received 	0
+statistic SimulationNetwork.GateWay6 	"hop count"
+field count 14
+field mean 18570119.071429
+field stddev 3656.3716244461
+field sum 259981667
+field sqrsum 4.8278906863762e+015
+field min 18563011
+field max 18573479
+attr type  int
+bin	-INF	0
+bin	18563010	0
+bin	18563011	1
+bin	18563012	13
+scalar SimulationNetwork.Node11 	#sent 	112
+scalar SimulationNetwork.Node11 	#received 	4
+statistic SimulationNetwork.Node11 	"hop count"
+field count 2
+field mean 18573479
+field stddev 0
+field sum 37146958
+field sqrsum 6.8994824432688e+014
+field min 18573479
+field max 18573479
+attr type  int
+bin	-INF	0
+bin	18573478	0
+bin	18573479	2
+bin	18573480	0
+scalar SimulationNetwork.GateWay2 	#sent 	9737881
+scalar SimulationNetwork.GateWay2 	#received 	6185573
+statistic SimulationNetwork.GateWay2 	"hop count"
+field count 15
+field mean 18569919.666667
+field stddev 2792.9775372926
+field sum 278548795
+field sqrsum 5.1726288556069e+015
+field min 18564852
+field max 18573479
+attr type  int
+bin	-INF	0
+bin	18564851	0
+bin	18564852	1
+bin	18564853	14
+scalar SimulationNetwork.BS 	#sent 	0
+scalar SimulationNetwork.BS 	#received 	0
+statistic SimulationNetwork.BS 	"hop count"
+field count 28
+field mean 18568883.392857
+field stddev 3529.490581639
+field sum 519928735
+field sqrsum 9.6544963891579e+015
+field min 18563385
+field max 18573479
+attr type  int
+bin	-INF	0
+bin	18563384	0
+bin	18563385	1
+bin	18563386	27
+scalar SimulationNetwork.GateWay2 	#sent 	9737881
+scalar SimulationNetwork.GateWay2 	#received 	6185573
+statistic SimulationNetwork.GateWay2 	"hop count"
+field count 16
+field mean 18570142.125
+field stddev 2841.2107718365
+field sum 297122274
+field sqrsum 5.5176029777704e+015
+field min 18564852
+field max 18573479
+attr type  int
+bin	-INF	0
+bin	18564851	0
+bin	18564852	1
+bin	18564853	15
+scalar SimulationNetwork.Node12 	#sent 	0
+scalar SimulationNetwork.Node12 	#received 	0
+statistic SimulationNetwork.Node12 	"hop count"
+field count 1
+field mean 18573479
+field stddev -1.#IND
+field sum 18573479
+field sqrsum 3.4497412216344e+014
+field min 18573479
+field max 18573479
+attr type  int
+bin	-INF	0
+bin	18573478	0
+bin	18573479	1
+bin	18573480	0
+scalar SimulationNetwork.GateWay2 	#sent 	9737881
+scalar SimulationNetwork.GateWay2 	#received 	6185573
+statistic SimulationNetwork.GateWay2 	"hop count"
+field count 17
+field mean 18570356.764706
+field stddev 2889.8342843772
+field sum 315696065
+field sqrsum 5.8625886898821e+015
+field min 18564852
+field max 18573791
+attr type  int
+bin	-INF	0
+bin	18564851	0
+bin	18564852	1
+bin	18564853	16
+scalar SimulationNetwork.BS 	#sent 	0
+scalar SimulationNetwork.BS 	#received 	0
+statistic SimulationNetwork.BS 	"hop count"
+field count 29
+field mean 18569052.62069
+field stddev 3583.6997284687
+field sum 538502526
+field sqrsum 9.9994821012696e+015
+field min 18563385
+field max 18573791
+attr type  int
+bin	-INF	0
+bin	18563384	0
+bin	18563385	1
+bin	18563386	28
+scalar SimulationNetwork.GateWay2 	#sent 	9737881
+scalar SimulationNetwork.GateWay2 	#received 	6185573
+statistic SimulationNetwork.GateWay2 	"hop count"
+field count 18
+field mean 18570547.555556
+field stddev 2918.0677172759
+field sum 334269856
+field sqrsum 6.2075744019937e+015
+field min 18564852
+field max 18573791
+attr type  int
+bin	-INF	0
+bin	18564851	0
+bin	18564852	1
+bin	18564853	17
+scalar SimulationNetwork.Node12 	#sent 	0
+scalar SimulationNetwork.Node12 	#received 	0
+statistic SimulationNetwork.Node12 	"hop count"
+field count 2
+field mean 18573635
+field stddev 220.6173157302
+field sum 37147270
+field sqrsum 6.8995983427512e+014
+field min 18573479
+field max 18573791
+attr type  int
+bin	-INF	0
+bin	18573478	0
+bin	18573479	1
+bin	18573480	1
+scalar SimulationNetwork.MainClusterHead 	#sent 	112
+scalar SimulationNetwork.MainClusterHead 	#received 	1
+statistic SimulationNetwork.MainClusterHead 	"hop count"
+field count 14
+field mean 18571840.785714
+field stddev 2294.6743753733
+field sum 260005771
+field sqrsum 4.8287858508308e+015
+field min 18566661
+field max 18573791
+attr type  int
+bin	-INF	0
+bin	18566660	0
+bin	18566661	1
+bin	18566662	13
+scalar SimulationNetwork.ClusterHead5 	#sent 	1250067
+scalar SimulationNetwork.ClusterHead5 	#received 	6316128
+statistic SimulationNetwork.ClusterHead5 	"hop count"
+field count 1
+field mean 18573791
+field stddev -1.#IND
+field sum 18573791
+field sqrsum 3.4498571211168e+014
+field min 18573791
+field max 18573791
+attr type  int
+bin	-INF	0
+bin	18573790	0
+bin	18573791	1
+bin	18573792	0
+scalar SimulationNetwork.MainClusterHead 	#sent 	112
+scalar SimulationNetwork.MainClusterHead 	#received 	1
+statistic SimulationNetwork.MainClusterHead 	"hop count"
+field count 15
+field mean 18571977
+field stddev 2273.265524055
+field sum 278579655
+field sqrsum 5.1737750176762e+015
+field min 18566661
+field max 18573884
+attr type  int
+bin	-INF	0
+bin	18566660	0
+bin	18566661	1
+bin	18566662	14
+scalar SimulationNetwork.Node13 	#sent 	112
+scalar SimulationNetwork.Node13 	#received 	4
+statistic SimulationNetwork.Node13 	"hop count"
+field count 1
+field mean 18573884
+field stddev -1.#IND
+field sum 18573884
+field sqrsum 3.4498916684546e+014
+field min 18573884
+field max 18573884
+attr type  int
+bin	-INF	0
+bin	18573883	0
+bin	18573884	1
+bin	18573885	0
+scalar SimulationNetwork.MainClusterHead 	#sent 	112
+scalar SimulationNetwork.MainClusterHead 	#received 	1
+statistic SimulationNetwork.MainClusterHead 	"hop count"
+field count 16
+field mean 18572098.125
+field stddev 2248.9910293285
+field sum 297153570
+field sqrsum 5.5187653361035e+015
+field min 18566661
+field max 18573915
+attr type  int
+bin	-INF	0
+bin	18566660	0
+bin	18566661	1
+bin	18566662	15
+scalar SimulationNetwork.MainClusterHead 	#sent 	112
+scalar SimulationNetwork.MainClusterHead 	#received 	1
+statistic SimulationNetwork.MainClusterHead 	"hop count"
+field count 17
+field mean 18572205.941176
+field stddev 2222.4877241141
+field sum 315727501
+field sqrsum 5.8637562488962e+015
+field min 18566661
+field max 18573931
+attr type  int
+bin	-INF	0
+bin	18566660	0
+bin	18566661	1
+bin	18566662	16
+scalar SimulationNetwork.Node13 	#sent 	112
+scalar SimulationNetwork.Node13 	#received 	4
+statistic SimulationNetwork.Node13 	"hop count"
+field count 2
+field mean 18573915.5
+field stddev 44.547727214752
+field sum 37147831
+field sqrsum 6.8998067400427e+014
+field min 18573884
+field max 18573947
+attr type  int
+bin	-INF	0
+bin	18573883	0
+bin	18573884	1
+bin	18573885	1
+scalar SimulationNetwork.MainClusterHead 	#sent 	112
+scalar SimulationNetwork.MainClusterHead 	#received 	1
+statistic SimulationNetwork.MainClusterHead 	"hop count"
+field count 18
+field mean 18572302.666667
+field stddev 2194.8349529266
+field sum 334301448
+field sqrsum 6.208747756055e+015
+field min 18566661
+field max 18573947
+attr type  int
+bin	-INF	0
+bin	18566660	0
+bin	18566661	1
+bin	18566662	17
+scalar SimulationNetwork.MainClusterHead 	#sent 	112
+scalar SimulationNetwork.MainClusterHead 	#received 	1
+statistic SimulationNetwork.MainClusterHead 	"hop count"
+field count 19
+field mean 18572390.842105
+field stddev 2167.3476689566
+field sum 352875426
+field sqrsum 6.5537404147995e+015
+field min 18566661
+field max 18573978
+attr type  int
+bin	-INF	0
+bin	18566660	0
+bin	18566661	1
+bin	18566662	18
+scalar SimulationNetwork.Node13 	#sent 	112
+scalar SimulationNetwork.Node13 	#received 	4
+statistic SimulationNetwork.Node13 	"hop count"
+field count 3
+field mean 18573936.333333
+field stddev 47.899199821144
+field sum 55721809
+field sqrsum 1.0349733327487e+015
+field min 18573884
+field max 18573978
+attr type  int
+bin	-INF	0
+bin	18573883	0
+bin	18573884	1
+bin	18573885	2
+scalar SimulationNetwork.GateWay2 	#sent 	9737881
+scalar SimulationNetwork.GateWay2 	#received 	6185573
+statistic SimulationNetwork.GateWay2 	"hop count"
+field count 19
+field mean 18570728.894737
+field stddev 2943.9516129549
+field sum 352843849
+field sqrsum 6.5525676179578e+015
+field min 18564852
+field max 18573993
+attr type  int
+bin	-INF	0
+bin	18564851	0
+bin	18564852	1
+bin	18564853	18
+scalar SimulationNetwork.BS 	#sent 	0
+scalar SimulationNetwork.BS 	#received 	0
+statistic SimulationNetwork.BS 	"hop count"
+field count 30
+field mean 18569217.833333
+field stddev 3635.7807261326
+field sum 557076535
+field sqrsum 1.0344475911602e+016
+field min 18563385
+field max 18574009
+attr type  int
+bin	-INF	0
+bin	18563384	0
+bin	18563385	1
+bin	18563386	29
+scalar SimulationNetwork.GateWay2 	#sent 	9737881
+scalar SimulationNetwork.GateWay2 	#received 	6185573
+statistic SimulationNetwork.GateWay2 	"hop count"
+field count 20
+field mean 18570893.7
+field stddev 2958.7018330431
+field sum 371417874
+field sqrsum 6.8975620226584e+015
+field min 18564852
+field max 18574025
+attr type  int
+bin	-INF	0
+bin	18564851	0
+bin	18564852	1
+bin	18564853	19
+scalar SimulationNetwork.Node14 	#sent 	0
+scalar SimulationNetwork.Node14 	#received 	0
+statistic SimulationNetwork.Node14 	"hop count"
+field count 1
+field mean 18574025
+field stddev -1.#IND
+field sum 18574025
+field sqrsum 3.4499440470063e+014
+field min 18574025
+field max 18574025
+attr type  int
+bin	-INF	0
+bin	18574024	0
+bin	18574025	1
+bin	18574026	0
+scalar SimulationNetwork.GateWay2 	#sent 	9737881
+scalar SimulationNetwork.GateWay2 	#received 	6185573
+statistic SimulationNetwork.GateWay2 	"hop count"
+field count 21
+field mean 18571043.52381
+field stddev 2964.3905548888
+field sum 389991914
+field sqrsum 7.24255698458e+015
+field min 18564852
+field max 18574040
+attr type  int
+bin	-INF	0
+bin	18564851	0
+bin	18564852	1
+bin	18564853	20
+scalar SimulationNetwork.BS 	#sent 	0
+scalar SimulationNetwork.BS 	#received 	0
+statistic SimulationNetwork.BS 	"hop count"
+field count 31
+field mean 18569373.903226
+field stddev 3678.7720220655
+field sum 575650591
+field sqrsum 1.0689471467893e+016
+field min 18563385
+field max 18574056
+attr type  int
+bin	-INF	0
+bin	18563384	0
+bin	18563385	1
+bin	18563386	30
+scalar SimulationNetwork.GateWay2 	#sent 	9737881
+scalar SimulationNetwork.GateWay2 	#received 	6185573
+statistic SimulationNetwork.GateWay2 	"hop count"
+field count 22
+field mean 18571181.136364
+field stddev 2964.0803648158
+field sum 408565985
+field sqrsum 7.587553098093e+015
+field min 18564852
+field max 18574071
+attr type  int
+bin	-INF	0
+bin	18564851	0
+bin	18564852	1
+bin	18564853	21
+scalar SimulationNetwork.Node14 	#sent 	0
+scalar SimulationNetwork.Node14 	#received 	0
+statistic SimulationNetwork.Node14 	"hop count"
+field count 2
+field mean 18574048
+field stddev 32.526911934581
+field sum 37148096
+field sqrsum 6.8999051821367e+014
+field min 18574025
+field max 18574071
+attr type  int
+bin	-INF	0
+bin	18574024	0
+bin	18574025	1
+bin	18574026	1
+scalar SimulationNetwork.GateWay1 	#sent 	0
+scalar SimulationNetwork.GateWay1 	#received 	1
+statistic SimulationNetwork.GateWay1 	"hop count"
+field count 13
+field mean 18568561.076923
+field stddev 3410.2522502387
+field sum 241391294
+field sqrsum 4.4822891256343e+015
+field min 18564852
+field max 18574103
+attr type  int
+bin	-INF	0
+bin	18564851	0
+bin	18564852	4
+bin	18564853	9
+scalar SimulationNetwork.BS 	#sent 	0
+scalar SimulationNetwork.BS 	#received 	0
+statistic SimulationNetwork.BS 	"hop count"
+field count 32
+field mean 18569521.6875
+field stddev 3714.2549154054
+field sum 594224694
+field sqrsum 1.1034468770147e+016
+field min 18563385
+field max 18574103
+attr type  int
+bin	-INF	0
+bin	18563384	0
+bin	18563385	1
+bin	18563386	31
+scalar SimulationNetwork.GateWay1 	#sent 	0
+scalar SimulationNetwork.GateWay1 	#received 	1
+statistic SimulationNetwork.GateWay1 	"hop count"
+field count 14
+field mean 18568958
+field stddev 3597.3448328113
+field sum 259965412
+field sqrsum 4.8272869851123e+015
+field min 18564852
+field max 18574118
+attr type  int
+bin	-INF	0
+bin	18564851	0
+bin	18564852	4
+bin	18564853	10
+scalar SimulationNetwork.Node15 	#sent 	0
+scalar SimulationNetwork.Node15 	#received 	0
+statistic SimulationNetwork.Node15 	"hop count"
+field count 1
+field mean 18574118
+field stddev -1.#IND
+field sum 18574118
+field sqrsum 3.4499785947792e+014
+field min 18574118
+field max 18574118
+attr type  int
+bin	-INF	0
+bin	18574117	0
+bin	18574118	1
+bin	18574119	0
+scalar SimulationNetwork.GateWay1 	#sent 	0
+scalar SimulationNetwork.GateWay1 	#received 	1
+statistic SimulationNetwork.GateWay1 	"hop count"
+field count 15
+field mean 18569303.066667
+field stddev 3715.1858147445
+field sum 278539546
+field sqrsum 5.1722854389622e+015
+field min 18564852
+field max 18574134
+attr type  int
+bin	-INF	0
+bin	18564851	0
+bin	18564852	4
+bin	18564853	11
+scalar SimulationNetwork.BS 	#sent 	0
+scalar SimulationNetwork.BS 	#received 	0
+statistic SimulationNetwork.BS 	"hop count"
+field count 33
+field mean 18569661.454545
+field stddev 3742.8897349743
+field sum 612798828
+field sqrsum 1.1379467223997e+016
+field min 18563385
+field max 18574134
+attr type  int
+bin	-INF	0
+bin	18563384	0
+bin	18563385	1
+bin	18563386	32
+scalar SimulationNetwork.GateWay1 	#sent 	0
+scalar SimulationNetwork.GateWay1 	#received 	1
+statistic SimulationNetwork.GateWay1 	"hop count"
+field count 16
+field mean 18569605
+field stddev 3786.9581108501
+field sum 297113680
+field sqrsum 5.5172838928122e+015
+field min 18564852
+field max 18574134
+attr type  int
+bin	-INF	0
+bin	18564851	0
+bin	18564852	4
+bin	18564853	12
+scalar SimulationNetwork.Node15 	#sent 	0
+scalar SimulationNetwork.Node15 	#received 	0
+statistic SimulationNetwork.Node15 	"hop count"
+field count 2
+field mean 18574126
+field stddev 11.313708498985
+field sum 37148252
+field sqrsum 6.8999631332788e+014
+field min 18574118
+field max 18574134
+attr type  int
+bin	-INF	0
+bin	18574117	0
+bin	18574118	1
+bin	18574119	1
+scalar SimulationNetwork.GateWay1 	#sent 	0
+scalar SimulationNetwork.GateWay1 	#received 	1
+statistic SimulationNetwork.GateWay1 	"hop count"
+field count 17
+field mean 18569871.411765
+field stddev 3827.7036042978
+field sum 315687814
+field sqrsum 5.8622823466621e+015
+field min 18564852
+field max 18574134
+attr type  int
+bin	-INF	0
+bin	18564851	0
+bin	18564852	4
+bin	18564853	13
+scalar SimulationNetwork.BS 	#sent 	0
+scalar SimulationNetwork.BS 	#received 	0
+statistic SimulationNetwork.BS 	"hop count"
+field count 34
+field mean 18569793
+field stddev 3764.7104359654
+field sum 631372962
+field sqrsum 1.1724465677847e+016
+field min 18563385
+field max 18574134
+attr type  int
+bin	-INF	0
+bin	18563384	0
+bin	18563385	1
+bin	18563386	33
+scalar SimulationNetwork.GateWay1 	#sent 	0
+scalar SimulationNetwork.GateWay1 	#received 	1
+statistic SimulationNetwork.GateWay1 	"hop count"
+field count 18
+field mean 18570108.222222
+field stddev 3846.9336231168
+field sum 334261948
+field sqrsum 6.2072808005121e+015
+field min 18564852
+field max 18574134
+attr type  int
+bin	-INF	0
+bin	18564851	0
+bin	18564852	4
+bin	18564853	14
+scalar SimulationNetwork.Node16 	#sent 	0
+scalar SimulationNetwork.Node16 	#received 	3
+statistic SimulationNetwork.Node16 	"hop count"
+field count 1
+field mean 18574134
+field stddev -1.#IND
+field sum 18574134
+field sqrsum 3.4499845384996e+014
+field min 18574134
+field max 18574134
+attr type  int
+bin	-INF	0
+bin	18574133	0
+bin	18574134	1
+bin	18574135	0
+scalar SimulationNetwork.GateWay1 	#sent 	0
+scalar SimulationNetwork.GateWay1 	#received 	1
+statistic SimulationNetwork.GateWay1 	"hop count"
+field count 19
+field mean 18570320.105263
+field stddev 3850.9390181671
+field sum 352836082
+field sqrsum 6.552279254362e+015
+field min 18564852
+field max 18574134
+attr type  int
+bin	-INF	0
+bin	18564851	0
+bin	18564852	4
+bin	18564853	15
+scalar SimulationNetwork.BS 	#sent 	0
+scalar SimulationNetwork.BS 	#received 	0
+statistic SimulationNetwork.BS 	"hop count"
+field count 35
+field mean 18569917.028571
+field stddev 3780.8198106156
+field sum 649947096
+field sqrsum 1.2069464131697e+016
+field min 18563385
+field max 18574134
+attr type  int
+bin	-INF	0
+bin	18563384	0
+bin	18563385	1
+bin	18563386	34
+scalar SimulationNetwork.GateWay1 	#sent 	0
+scalar SimulationNetwork.GateWay1 	#received 	1
+statistic SimulationNetwork.GateWay1 	"hop count"
+field count 20
+field mean 18570510.8
+field stddev 3844.0224765225
+field sum 371410216
+field sqrsum 6.897277708212e+015
+field min 18564852
+field max 18574134
+attr type  int
+bin	-INF	0
+bin	18564851	0
+bin	18564852	4
+bin	18564853	16
+scalar SimulationNetwork.Node16 	#sent 	0
+scalar SimulationNetwork.Node16 	#received 	3
+statistic SimulationNetwork.Node16 	"hop count"
+field count 2
+field mean 18574134
+field stddev 0
+field sum 37148268
+field sqrsum 6.8999690769991e+014
+field min 18574134
+field max 18574134
+attr type  int
+bin	-INF	0
+bin	18574133	0
+bin	18574134	2
+bin	18574135	0
+scalar SimulationNetwork.GateWay1 	#sent 	0
+scalar SimulationNetwork.GateWay1 	#received 	1
+statistic SimulationNetwork.GateWay1 	"hop count"
+field count 21
+field mean 18570683.333333
+field stddev 3829.2043734078
+field sum 389984350
+field sqrsum 7.242276162062e+015
+field min 18564852
+field max 18574134
+attr type  int
+bin	-INF	0
+bin	18564851	0
+bin	18564852	4
+bin	18564853	17
+scalar SimulationNetwork.BS 	#sent 	0
+scalar SimulationNetwork.BS 	#received 	0
+statistic SimulationNetwork.BS 	"hop count"
+field count 36
+field mean 18570034.166667
+field stddev 3792.1167364491
+field sum 668521230
+field sqrsum 1.2414462585547e+016
+field min 18563385
+field max 18574134
+attr type  int
+bin	-INF	0
+bin	18563384	0
+bin	18563385	1
+bin	18563386	35
+scalar SimulationNetwork.GateWay1 	#sent 	0
+scalar SimulationNetwork.GateWay1 	#received 	1
+statistic SimulationNetwork.GateWay1 	"hop count"
+field count 22
+field mean 18570840.181818
+field stddev 3808.6492498307
+field sum 408558484
+field sqrsum 7.5872746159119e+015
+field min 18564852
+field max 18574134
+attr type  int
+bin	-INF	0
+bin	18564851	0
+bin	18564852	4
+bin	18564853	18
+scalar SimulationNetwork.Node17 	#sent 	112
+scalar SimulationNetwork.Node17 	#received 	4
+statistic SimulationNetwork.Node17 	"hop count"
+field count 1
+field mean 18574134
+field stddev -1.#IND
+field sum 18574134
+field sqrsum 3.4499845384996e+014
+field min 18574134
+field max 18574134
+attr type  int
+bin	-INF	0
+bin	18574133	0
+bin	18574134	1
+bin	18574135	0
+scalar SimulationNetwork.GateWay1 	#sent 	0
+scalar SimulationNetwork.GateWay1 	#received 	1
+statistic SimulationNetwork.GateWay1 	"hop count"
+field count 23
+field mean 18570983.391304
+field stddev 3783.9344812103
+field sum 427132618
+field sqrsum 7.9322730697619e+015
+field min 18564852
+field max 18574134
+attr type  int
+bin	-INF	0
+bin	18564851	0
+bin	18564852	4
+bin	18564853	19
+scalar SimulationNetwork.BS 	#sent 	0
+scalar SimulationNetwork.BS 	#received 	0
+statistic SimulationNetwork.BS 	"hop count"
+field count 37
+field mean 18570144.972973
+field stddev 3799.3404872595
+field sum 687095364
+field sqrsum 1.2759461039397e+016
+field min 18563385
+field max 18574134
+attr type  int
+bin	-INF	0
+bin	18563384	0
+bin	18563385	1
+bin	18563386	36
+scalar SimulationNetwork.GateWay1 	#sent 	0
+scalar SimulationNetwork.GateWay1 	#received 	1
+statistic SimulationNetwork.GateWay1 	"hop count"
+field count 24
+field mean 18571114.666667
+field stddev 3756.2253331809
+field sum 445706752
+field sqrsum 8.2772715236118e+015
+field min 18564852
+field max 18574134
+attr type  int
+bin	-INF	0
+bin	18564851	0
+bin	18564852	4
+bin	18564853	20
+scalar SimulationNetwork.Node17 	#sent 	112
+scalar SimulationNetwork.Node17 	#received 	4
+statistic SimulationNetwork.Node17 	"hop count"
+field count 2
+field mean 18574134
+field stddev 0
+field sum 37148268
+field sqrsum 6.8999690769991e+014
+field min 18574134
+field max 18574134
+attr type  int
+bin	-INF	0
+bin	18574133	0
+bin	18574134	2
+bin	18574135	0
+scalar SimulationNetwork.GateWay2 	#sent 	9737881
+scalar SimulationNetwork.GateWay2 	#received 	6185573
+statistic SimulationNetwork.GateWay2 	"hop count"
+field count 23
+field mean 18571309.521739
+field stddev 2960.6627002264
+field sum 427140119
+field sqrsum 7.932551551943e+015
+field min 18564852
+field max 18574134
+attr type  int
+bin	-INF	0
+bin	18564851	0
+bin	18564852	1
+bin	18564853	22
+scalar SimulationNetwork.BS 	#sent 	0
+scalar SimulationNetwork.BS 	#received 	0
+statistic SimulationNetwork.BS 	"hop count"
+field count 38
+field mean 18570249.947368
+field stddev 3803.1038671297
+field sum 705669498
+field sqrsum 1.3104459493247e+016
+field min 18563385
+field max 18574134
+attr type  int
+bin	-INF	0
+bin	18563384	0
+bin	18563385	1
+bin	18563386	37
+scalar SimulationNetwork.GateWay2 	#sent 	9737881
+scalar SimulationNetwork.GateWay2 	#received 	6185573
+statistic SimulationNetwork.GateWay2 	"hop count"
+field count 24
+field mean 18571427.208333
+field stddev 2952.4256347333
+field sum 445714253
+field sqrsum 8.277550005793e+015
+field min 18564852
+field max 18574134
+attr type  int
+bin	-INF	0
+bin	18564851	0
+bin	18564852	1
+bin	18564853	23
+scalar SimulationNetwork.Node18 	#sent 	112
+scalar SimulationNetwork.Node18 	#received 	1
+statistic SimulationNetwork.Node18 	"hop count"
+field count 1
+field mean 18574134
+field stddev -1.#IND
+field sum 18574134
+field sqrsum 3.4499845384996e+014
+field min 18574134
+field max 18574134
+attr type  int
+bin	-INF	0
+bin	18574133	0
+bin	18574134	1
+bin	18574135	0
+scalar SimulationNetwork.GateWay2 	#sent 	9737881
+scalar SimulationNetwork.GateWay2 	#received 	6185573
+statistic SimulationNetwork.GateWay2 	"hop count"
+field count 25
+field mean 18571535.48
+field stddev 2940.5246572695
+field sum 464288387
+field sqrsum 8.6225484596429e+015
+field min 18564852
+field max 18574134
+attr type  int
+bin	-INF	0
+bin	18564851	0
+bin	18564852	1
+bin	18564853	24
+scalar SimulationNetwork.BS 	#sent 	0
+scalar SimulationNetwork.BS 	#received 	0
+statistic SimulationNetwork.BS 	"hop count"
+field count 39
+field mean 18570349.538462
+field stddev 3803.9183803726
+field sum 724243632
+field sqrsum 1.3449457947097e+016
+field min 18563385
+field max 18574134
+attr type  int
+bin	-INF	0
+bin	18563384	0
+bin	18563385	1
+bin	18563386	38
+scalar SimulationNetwork.GateWay2 	#sent 	9737881
+scalar SimulationNetwork.GateWay2 	#received 	6185573
+statistic SimulationNetwork.GateWay2 	"hop count"
+field count 26
+field mean 18571635.423077
+field stddev 2925.8369629642
+field sum 482862521
+field sqrsum 8.9675469134929e+015
+field min 18564852
+field max 18574134
+attr type  int
+bin	-INF	0
+bin	18564851	0
+bin	18564852	1
+bin	18564853	25
+scalar SimulationNetwork.Node18 	#sent 	112
+scalar SimulationNetwork.Node18 	#received 	1
+statistic SimulationNetwork.Node18 	"hop count"
+field count 2
+field mean 18574290
+field stddev 220.6173157302
+field sum 37148580
+field sqrsum 6.9000849805687e+014
+field min 18574134
+field max 18574446
+attr type  int
+bin	-INF	0
+bin	18574133	0
+bin	18574134	1
+bin	18574135	1
+scalar SimulationNetwork.GateWay1 	#sent 	0
+scalar SimulationNetwork.GateWay1 	#received 	1
+statistic SimulationNetwork.GateWay1 	"hop count"
+field count 25
+field mean 18571247.92
+field stddev 3737.0115725439
+field sum 464281198
+field sqrsum 8.6222815678187e+015
+field min 18564852
+field max 18574446
+attr type  int
+bin	-INF	0
+bin	18564851	0
+bin	18564852	4
+bin	18564853	21
+scalar SimulationNetwork.BS 	#sent 	0
+scalar SimulationNetwork.BS 	#received 	0
+statistic SimulationNetwork.BS 	"hop count"
+field count 40
+field mean 18570452.325
+field stddev 3810.6925266547
+field sum 742818093
+field sqrsum 1.3794468548538e+016
+field min 18563385
+field max 18574461
+attr type  int
+bin	-INF	0
+bin	18563384	0
+bin	18563385	1
+bin	18563386	39
+scalar SimulationNetwork.GateWay1 	#sent 	0
+scalar SimulationNetwork.GateWay1 	#received 	1
+statistic SimulationNetwork.GateWay1 	"hop count"
+field count 26
+field mean 18571372.115385
+field stddev 3715.8689570748
+field sum 482855675
+field sqrsum 8.9672927636423e+015
+field min 18564852
+field max 18574477
+attr type  int
+bin	-INF	0
+bin	18564851	0
+bin	18564852	4
+bin	18564853	22
+scalar SimulationNetwork.Member16 	#sent 	0
+scalar SimulationNetwork.Member16 	#received 	3
+statistic SimulationNetwork.Member16 	"hop count"
+field count 1
+field mean 18574477
+field stddev -1.#IND
+field sum 18574477
+field sqrsum 3.4501119582353e+014
+field min 18574477
+field max 18574477
+attr type  int
+bin	-INF	0
+bin	18574476	0
+bin	18574477	1
+bin	18574478	0
+scalar SimulationNetwork.GateWay1 	#sent 	0
+scalar SimulationNetwork.GateWay1 	#received 	1
+statistic SimulationNetwork.GateWay1 	"hop count"
+field count 27
+field mean 18571487.111111
+field stddev 3692.3794322642
+field sum 501430152
+field sqrsum 9.3123039594658e+015
+field min 18564852
+field max 18574477
+attr type  int
+bin	-INF	0
+bin	18564851	0
+bin	18564852	4
+bin	18564853	23
+scalar SimulationNetwork.BS 	#sent 	0
+scalar SimulationNetwork.BS 	#received 	0
+statistic SimulationNetwork.BS 	"hop count"
+field count 41
+field mean 18570551.243902
+field stddev 3815.694696122
+field sum 761392601
+field sqrsum 1.413948089598e+016
+field min 18563385
+field max 18574508
+attr type  int
+bin	-INF	0
+bin	18563384	0
+bin	18563385	1
+bin	18563386	40
+scalar SimulationNetwork.GateWay1 	#sent 	0
+scalar SimulationNetwork.GateWay1 	#received 	1
+statistic SimulationNetwork.GateWay1 	"hop count"
+field count 28
+field mean 18571595
+field stddev 3668.05611048
+field sum 520004660
+field sqrsum 9.6573163069079e+015
+field min 18564852
+field max 18574508
+attr type  int
+bin	-INF	0
+bin	18564851	0
+bin	18564852	4
+bin	18564853	24
+scalar SimulationNetwork.Member17 	#sent 	112
+scalar SimulationNetwork.Member17 	#received 	4
+statistic SimulationNetwork.Member17 	"hop count"
+field count 1
+field mean 18574508
+field stddev -1.#IND
+field sum 18574508
+field sqrsum 3.4501234744206e+014
+field min 18574508
+field max 18574508
+attr type  int
+bin	-INF	0
+bin	18574507	0
+bin	18574508	1
+bin	18574509	0
+scalar SimulationNetwork.GateWay2 	#sent 	9737881
+scalar SimulationNetwork.GateWay2 	#received 	6185573
+statistic SimulationNetwork.GateWay2 	"hop count"
+field count 27
+field mean 18571742.407407
+field stddev 2922.3797699725
+field sum 501437045
+field sqrsum 9.3125598553194e+015
+field min 18564852
+field max 18574524
+attr type  int
+bin	-INF	0
+bin	18564851	0
+bin	18564852	1
+bin	18564853	26
+scalar SimulationNetwork.BS 	#sent 	0
+scalar SimulationNetwork.BS 	#received 	0
+statistic SimulationNetwork.BS 	"hop count"
+field count 42
+field mean 18570646.571429
+field stddev 3819.1731779374
+field sum 779967156
+field sqrsum 1.4484494989428e+016
+field min 18563385
+field max 18574555
+attr type  int
+bin	-INF	0
+bin	18563384	0
+bin	18563385	1
+bin	18563386	41
+scalar SimulationNetwork.GateWay2 	#sent 	9737881
+scalar SimulationNetwork.GateWay2 	#received 	6185573
+statistic SimulationNetwork.GateWay2 	"hop count"
+field count 28
+field mean 18571842.857143
+field stddev 2916.5939256244
+field sum 520011600
+field sqrsum 9.6575739487675e+015
+field min 18564852
+field max 18574555
+attr type  int
+bin	-INF	0
+bin	18564851	0
+bin	18564852	1
+bin	18564853	27
+scalar SimulationNetwork.Member18 	#sent 	112
+scalar SimulationNetwork.Member18 	#received 	1
+statistic SimulationNetwork.Member18 	"hop count"
+field count 1
+field mean 18574555
+field stddev -1.#IND
+field sum 18574555
+field sqrsum 3.4501409344803e+014
+field min 18574555
+field max 18574555
+attr type  int
+bin	-INF	0
+bin	18574554	0
+bin	18574555	1
+bin	18574556	0
+scalar SimulationNetwork.GateWay6 	#sent 	0
+scalar SimulationNetwork.GateWay6 	#received 	0
+statistic SimulationNetwork.GateWay6 	"hop count"
+field count 15
+field mean 18570414.8
+field stddev 3704.855177427
+field sum 278556222
+field sqrsum 5.1729047798242e+015
+field min 18563011
+field max 18574555
+attr type  int
+bin	-INF	0
+bin	18563010	0
+bin	18563011	1
+bin	18563012	14

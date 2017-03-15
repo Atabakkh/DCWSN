@@ -1,0 +1,60 @@
+file 6153 1383664886                                            
+version 2
+run General-0-20131105-23:21:11-4448
+attr configname General
+attr datetime 20131105-23:21:11
+attr experiment General
+attr inifile omnetpp.ini
+attr iterationvars ""
+attr iterationvars2 $repetition=0
+attr measurement ""
+attr network ""
+attr processid 4448
+attr repetition 0
+attr replication #0
+attr resultdir results
+attr runnumber 0
+attr seedset 0
+
+vector 0  SimulationNetwork.newNode  ""  ETV
+vector 1  SimulationNetwork.BS  ""  ETV
+vector 2  SimulationNetwork.newNode2  ""  ETV
+vector 3  SimulationNetwork.newNode3  ""  ETV
+vector 4  SimulationNetwork.newNode4  ""  ETV
+vector 5  SimulationNetwork.MainClusterHead  ""  ETV
+vector 6  SimulationNetwork.newNode5  ""  ETV
+3	704 81 12 15 0 0 6 0 18564852 55694556 1.0339611893457e+015
+6	785 66 29 30 0 0 4 1250067 18568268 39636124 6.9266621179809e+014
+vector 7  SimulationNetwork.newNode8  ""  ETV
+vector 8  SimulationNetwork.Node10  ""  ETV
+vector 9  SimulationNetwork.Node11  ""  ETV
+vector 10  SimulationNetwork.Node12  ""  ETV
+vector 11  SimulationNetwork.ClusterHead5  ""  ETV
+vector 12  SimulationNetwork.Node13  ""  ETV
+vector 13  SimulationNetwork.Node14  ""  ETV
+vector 14  SimulationNetwork.Node15  ""  ETV
+vector 15  SimulationNetwork.Node16  ""  ETV
+vector 16  SimulationNetwork.Node17  ""  ETV
+vector 17  SimulationNetwork.Node18  ""  ETV
+15	1362 62 129 133 0 0 4 0 18574134 37148268 6.8999690769991e+014
+vector 18  SimulationNetwork.Member16  ""  ETV
+16	1472 66 137 141 0 0 4 112 18574134 37148492 6.89996907725e+014
+18	1538 31 153 153 0 0 2 0 18574477 18574477 3.4501119582353e+014
+vector 19  SimulationNetwork.Member17  ""  ETV
+17	1617 66 145 149 0 0 4 112 18574446 37148804 6.9000849808196e+014
+19	1683 33 157 157 0 0 2 112 18574508 18574620 3.4501234745461e+014
+vector 20  SimulationNetwork.Member18  ""  ETV
+9	1764 58 87 91 0 0 4 112 18573479 37147182 6.8994824435197e+014
+20	1822 33 161 161 0 0 2 112 18574555 18574667 3.4501409346057e+014
+0	1855 401 1 162 0 0 30 0 18574555 278556222 5.1729047798242e+015
+1	2256 1152 2 159 0 0 84 0 18574555 779967156 1.4484494989428e+016
+2	3408 784 7 156 0 0 56 0 18574508 520004660 9.6573163069079e+015
+4	4192 944 18 160 0 0 56 9737881 18574555 792672268 1.2312711087132e+016
+5	5136 563 24 108 0 0 38 112 18573978 352877554 6.5537404150379e+015
+7	5699 102 70 78 0 0 6 12172221 18573479 92237100 1.4794112587088e+015
+8	5801 34 81 81 0 0 2 12172221 18573479 30745700 4.9313708623628e+014
+10	5835 58 95 99 0 0 4 0 18573791 37147270 6.8995983427512e+014
+11	5893 37 101 101 0 0 2 1250067 18573791 19823858 3.4654837961617e+014
+12	5930 99 103 109 0 0 6 112 18573978 55722145 1.0349733327864e+015
+13	6029 62 113 117 0 0 4 0 18574071 37148096 6.8999051821367e+014
+14	6091 62 121 125 0 0 4 0 18574134 37148252 6.8999631332788e+014
